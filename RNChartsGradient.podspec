@@ -1,8 +1,8 @@
 Pod::Spec.new do |spec|
-  spec.name         = "RNChartsGradient"
+  spec.name         = "RNChartsHealth"
   spec.version      = "1.0.0"
-  spec.summary      = "A short description of RNChartsGradient"
-  spec.description  = "RNChartsGradient"
+  spec.summary      = "A short description of RNChartsHealth"
+  spec.description  = "RNChartsHealth"
   spec.homepage     = "https://github.com/evgenButurlia/ChartsGradient"
   spec.license      = "MIT"
   spec.author       = { "Evgeny Buturlia" => "evgeny@healthimation.com" }
